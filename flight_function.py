@@ -53,7 +53,7 @@ def flight_information(origin, destination, travel_date, return_date):
     
     
     '''
-    Consider any code that isn't None
+    Consider any data that isn't None
     '''
     origin_IATA = origin_airports['IataCode'][0]
     dest_IATA = dest_airports['IataCode'][0]
